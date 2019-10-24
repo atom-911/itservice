@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/itservice/static/css/main.60747779.chunk.css",
+    "main.js": "/itservice/static/js/main.92699a28.chunk.js",
+    "main.js.map": "/itservice/static/js/main.92699a28.chunk.js.map",
+    "runtime~main.js": "/itservice/static/js/runtime~main.d89582fc.js",
+    "runtime~main.js.map": "/itservice/static/js/runtime~main.d89582fc.js.map",
+    "static/js/2.220293a8.chunk.js": "/itservice/static/js/2.220293a8.chunk.js",
+    "static/js/2.220293a8.chunk.js.map": "/itservice/static/js/2.220293a8.chunk.js.map",
+    "index.html": "/itservice/index.html",
+    "precache-manifest.058db2664ba238d51bdd5f1a987aa6ab.js": "/itservice/precache-manifest.058db2664ba238d51bdd5f1a987aa6ab.js",
+    "service-worker.js": "/itservice/service-worker.js",
+    "static/css/main.60747779.chunk.css.map": "/itservice/static/css/main.60747779.chunk.css.map",
+    "static/media/App.css": "/itservice/static/media/banner.141b7e52.jpg",
+    "static/media/home_itservice_slide1-890x440.png": "/itservice/static/media/home_itservice_slide1-890x440.cea12eb7.png",
+    "static/media/home_itservice_slide2-890x440.png": "/itservice/static/media/home_itservice_slide2-890x440.c6f7fbad.png"
+  }
+}
