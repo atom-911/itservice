@@ -1,11 +1,4 @@
 import React, { Component } from 'react';
-import axios from 'axios';
-
-const addDataform =  (name,phone,message) => {
- return  axios.post('https://cors-anywhere.herokuapp.com/https://script.google.com/macros/s/AKfycbyUvlSEG5GT0_8I-A3oDA6K5nYlnvprNSeoKbpXX810JzHyPgM/exec',{name,phone,message},{headers: {'Access-Control-Allow-Origin': '*'}})
-  .then((resp)=>resp.data)
-}
-
 class Contact extends Component{
 constructor(props) {
   super(props);
